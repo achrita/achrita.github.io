@@ -1,1 +1,13 @@
-
+body{
+    background-color: magenta
+    color: violet;
+    
+}
+.judul{
+    color: aliceblue;
+}
+.paragraf{
+    font-style: italic;
+    font-style: bold;
+    font-size: 30px;
+}
